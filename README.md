@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @WillamysC
-- 👀 I’m interested in movies, books and peoples. On my way to become a Software E.
+- 👀 I’m interested in movies, books and people. On my way to become a Software E.
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on some comunity to improve my skills
 - 📫 How to reach me: willamyscleyton@gmail.com /  https://www.linkedin.com/in/willamys-silva/
